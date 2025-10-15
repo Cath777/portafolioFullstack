@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="footer-section">
             <h3>Redes Sociales</h3>
             <div className="social-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://github.com/Cath777" target="_blank" rel="noopener noreferrer">GitHub</a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
             </div>
