@@ -7,7 +7,7 @@ export const noticias = [
     fuente: 'Somos Kudasai',
     enlace: 'https://somoskudasai.com/noticias/animes-prohibidos-por-contenido-polemico',
     categoria: 'Cultura Digital',
-    imagen: 'src/images/noticia1.webp'
+    imagen: '/images/noticia1.webp'
   },
   {
     id: 'crisis-isekai',
@@ -17,6 +17,6 @@ export const noticias = [
     fuente: 'Somos Kudasai',
     enlace: 'https://somoskudasai.com/noticias/crisis-del-isekai-genero-anime',
     categoria: 'Anime',
-    imagen: 'src/images/noticia2.webp'
+    imagen: '/images/noticia2.webp'
   }
 ]

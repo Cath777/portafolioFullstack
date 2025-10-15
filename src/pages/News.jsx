@@ -4,7 +4,7 @@ export default function News() {
   return (
     <section>
       <h1>Noticias</h1>
-      <p className="mt-3">Últimas noticias relevantes sobre ciberseguridad y tecnología</p>
+
       
       <div className="grid grid-2 mt-6">
         {noticias.map((noticia) => (

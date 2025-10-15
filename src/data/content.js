@@ -1,7 +1,7 @@
-// Usando imágenes temporales de placeholder
-const dontSleepImg = 'https://via.placeholder.com/400x300?text=Project+1'
-const vitalcoImg = 'https://via.placeholder.com/400x300?text=Project+2'
-const reactLogo = 'https://via.placeholder.com/400x300?text=React+Logo'
+// Rutas de imágenes desde la carpeta public
+const dontSleepImg = '/images/project1.webp'
+const vitalcoImg = '/images/project2.webp'
+const reactLogo = '/images/react-logo.svg'
 
 export const profile = {
   name: 'Cathalina Gutierrez',
