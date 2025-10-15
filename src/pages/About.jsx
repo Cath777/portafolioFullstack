@@ -31,13 +31,13 @@ export default function About(){
       <div className="card" style={{padding:24, marginBottom:24}}>
         <h2>Perfil Profesional</h2>
         <p style={{lineHeight:1.6, textAlign:'justify'}}>
-          Estudiante de segundo año de Ingeniería en Informática en DuocUC Plaza Oeste con 
-          sólida base en tecnologías de la información, desarrollo de software y ciberseguridad. 
-          Experiencia práctica en sistemas Linux y herramientas de seguridad informática. Busco 
-          oportunidades para aplicar mis conocimientos técnicos en el área de informática y 
-          ciberseguridad, contribuyendo al crecimiento tecnológico de la organización. 
-          Comprometido con el aprendizaje continuo y la excelencia en el desarrollo de soluciones 
-          tecnológicas seguras.
+          Soy Cathalina Gutiérrez, estudiante de Ingeniería en Informática, actualmente cursando el segundo año de la carrera. 
+          Me caracterizo por ser una persona responsable, creativa y con gran interés en el desarrollo y diseño web.
+          Tengo conocimientos en HTML, CSS y JavaScript, y disfruto combinar la tecnología con el diseño para crear sitios web 
+          atractivos, funcionales y centrados en la experiencia del usuario. Además, me interesa el área de la animación digital, 
+          donde busco seguir aprendiendo y aplicar mis habilidades en proyectos que integren creatividad e innovación.
+          Mi objetivo profesional es desarrollarme en el área del diseño y programación web, participando en proyectos
+           que me permitan seguir creciendo, aportar ideas y consolidar mi formación como futura ingeniera en informática.
         </p>
       </div>
 
