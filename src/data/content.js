@@ -1,4 +1,4 @@
-// Rutas de imágenes desde la carpeta public
+
 const dontSleepImg = '/images/project1.webp'
 const vitalcoImg = '/images/project2.webp'
 const reactLogo = '/images/react-logo.svg'
@@ -10,14 +10,15 @@ export const profile = {
   summary: 'Hola, mi nombre es Cathalina Gutiérrez, tengo 21 años y actualmente curso el segundo año de Ingeniería en Informática. Desde que comencé a estudiar esta carrera, he descubierto una gran pasión por el mundo digital, especialmente en áreas como la animación digital y el diseño de páginas web.\n\nMe considero una persona creativa, responsable y con muchas ganas de seguir aprendiendo y creciendo en este campo. Disfruto combinar la tecnología con el diseño para crear experiencias visuales atractivas y funcionales.\n\nSería un verdadero gusto poder colaborar y trabajar contigo, aportando mis conocimientos, entusiasmo y dedicación a cada proyecto.',
   avatar: '/perfil.webp',
   links: {
-    github: '',
+    github: 'https://github.com/Cath777',
     linkedin: '',
     email: 'acathagutierrez@gmail.com',
+    phone: '+569 89876543',
     title: 'Cathalina Gutierrez - Estudiante Ingeniería en informática'
   },
 }
 
-// Recursos locales procesados por Vite (ubicados en src/assets)
+
 
 export const skills = [
   'Diseño Web', 'HTML', 'CSS', 'Animación Digital', 'Diseño de Interfaces',

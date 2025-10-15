@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Contacto</h3>
-            <p>Email: tu-email@ejemplo.com</p>
-            <p>Tel: +123 456 789</p>
+            <p>Email: acathagutierrez@gmail.com'</p>
+            <p>Tel: +569 89876543</p>
           </div>
           <div className="footer-section">
             <h3>Redes Sociales</h3>
@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Tu Nombre. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Aida. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

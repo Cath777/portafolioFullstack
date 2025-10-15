@@ -7,7 +7,7 @@ export default function RootLayout(){
       <header className="site">
         <div className="container">
           <nav className="site">
-            <NavLink to="/" className="brand" aria-label="Inicio">Mi Portafolio</NavLink>
+            <NavLink to="/" className="brand" aria-label="Inicio">Emilia mi Diosa</NavLink>
             <div>
               <NavLink to="/" end>Inicio</NavLink>
               <NavLink to="/about">Sobre mí</NavLink>

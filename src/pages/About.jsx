@@ -21,9 +21,9 @@ export default function About(){
           <div>
             <h2>{profile.name}</h2>
             <p style={{fontSize:'1.2em', color:'var(--brand)', margin:'8px 0'}}>{profile.role}</p>
-            <p><strong>Edad:</strong> 21 años (21 de abril, 1999)</p>
+            <p><strong>Edad:</strong> 21 años</p>
             <p><strong>Ubicación:</strong> {profile.location}</p>
-            <p><strong>Teléfono:</strong> +56 9 </p>
+            <p><strong>Teléfono:</strong> +56 9 4549 9200 </p>
           </div>
         </div>
       </div>

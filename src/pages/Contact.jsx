@@ -5,8 +5,7 @@ export default function Contact(){
   return (
     <section className="grid">
       <div className="card" style={{padding:16}}>
-        <h1>Contacto</h1>
-        <p className="mt-3">Si te interesa colaborar o tienes una propuesta, completa el siguiente formulario.</p>
+        <h1>Contacto</h1>   
         <ContactForm />
       </div>
       <div className="card" style={{padding:16}}>
